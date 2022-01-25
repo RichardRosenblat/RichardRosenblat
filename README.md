@@ -108,6 +108,59 @@ São Paulo/SP - [/in/richard-rosenblat](www.linkedin.com/in/richard-rosenblat)
 
 ---
 
+# ¡Hola! Me llamo Richard Rosenblat
+
+## Soy interesado en el desarrollo de software backend
+
+Deseo trabajar con Java.  
+Estudo Tecnólogo en Análisis y Desarrollo de Sistemas en la Universidad Nove de Julho (Uninove), Brasil.
+
+## Estas son mis competencias:
+
+### **Idiomas/Tecnologías conocidas:**
+
+    - Java
+    - Spring Boot
+    - Python
+    - C
+    - C#
+    - Lua utilizando LOVE2D
+    - Maven
+    - API Rest
+    - JavaScript
+    - ReactJS
+    - React Native
+    - HTML
+    - CSS
+    - SQL
+    - YML
+    - XML
+    - JPQL
+    - Insomnia y Postman
+    - UML, DFI y documentacion de APIs
+    - Uso basico del Word, Power Point y Excel
+
+### **Idiomas hablados:**
+
+    - Portugués fluido
+    - Inglés avanzado
+    - Español intermedio
+
+### **Capacidades interpersonales:**
+
+    - Aprendizaje rápido
+    - Resolución de problemas
+    - Inteligencia emocional
+    - Comunicación interpersonal
+    - Pensamiento estratégico
+    - desarrollo de la persona
+
+## Informacíon para contacto
+
+Richard Rosenblat  
+(11) 96803-7497 - rosenblatr@gmail.com  
+São Paulo/SP - [/in/richard-rosenblat](www.linkedin.com/in/richard-rosenblat)
+
 <!---
 RichardRosenblat/RichardRosenblat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
