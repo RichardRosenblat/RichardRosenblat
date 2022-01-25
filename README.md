@@ -32,7 +32,7 @@ Estudo Tecnólogo em Análise e Desenvolvimento de Sistemas na universidade Nove
 
 ### **Idiomas Falados:**
 
-    - Português fluente
+    - Português nativo
     - Inglês avançado
     - Espanhol intermediário
 
@@ -87,7 +87,7 @@ I study Technologist in Systems Analysis and Development in Nove de Julho (Unino
 
 ### **Languages spoken:**
 
-    - Fluent Portuguese
+    - Native Portuguese
     - Advanced English
     - Intermediate Spanish
 
@@ -110,10 +110,10 @@ São Paulo/SP - [/in/richard-rosenblat](www.linkedin.com/in/richard-rosenblat)
 
 # ¡Hola! Me llamo Richard Rosenblat
 
-## Soy interesado en el desarrollo de software backend
+## Estoy interesado en el desarrollo de software backend
 
-Deseo trabajar con Java.  
-Estudo Tecnólogo en Análisis y Desarrollo de Sistemas en la Universidad Nove de Julho (Uninove), Brasil.
+Deseo trabajar con Java.
+Estudio Tecnólogo en Análisis y Desarrollo de Sistemas en la Universidad Nove de Julho (Uninove), Brasil.
 
 ## Estas son mis competencias:
 
@@ -142,7 +142,7 @@ Estudo Tecnólogo en Análisis y Desarrollo de Sistemas en la Universidad Nove d
 
 ### **Idiomas hablados:**
 
-    - Portugués fluido
+    - Portugués nativo
     - Inglés avanzado
     - Español intermedio
 
@@ -153,9 +153,9 @@ Estudo Tecnólogo en Análisis y Desarrollo de Sistemas en la Universidad Nove d
     - Inteligencia emocional
     - Comunicación interpersonal
     - Pensamiento estratégico
-    - desarrollo de la persona
+    - Desarrollo personal
 
-## Informacíon para contacto
+## Información de contacto
 
 Richard Rosenblat  
 (11) 96803-7497 - rosenblatr@gmail.com  
