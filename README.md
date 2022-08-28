@@ -11,6 +11,10 @@ Estudo Tecnólogo em Análise e Desenvolvimento de Sistemas na universidade Nove
 
     - Java
     - Spring Boot
+    - NPM
+    - Jest
+    - Node
+    - Typescript
     - Python
     - C
     - C#
@@ -66,6 +70,10 @@ I study Technologist in Systems Analysis and Development in Nove de Julho (Unino
 
     - Java
     - Spring Boot
+    - NPM
+    - Jest
+    - Node
+    - Typescript
     - Python
     - C
     - C#
@@ -121,6 +129,10 @@ Estudio Tecnólogo en Análisis y Desarrollo de Sistemas en la Universidad Nove 
 
     - Java
     - Spring Boot
+    - NPM
+    - Jest
+    - Node
+    - Typescript
     - Python
     - C
     - C#
