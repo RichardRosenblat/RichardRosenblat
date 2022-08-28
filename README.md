@@ -1,8 +1,8 @@
 # Olá! Me chamo Richard Rosenblat
 
-## Estou interessado em Desenvolvimento de Software Backend
+## Estou interessado em Desenvolvimento de Software
 
-Desejo trabalhar com Java.  
+Desejo trabalhar com desenvolvimento de softwares e expandir meus conhecimentos.  
 Estudo Tecnólogo em Análise e Desenvolvimento de Sistemas na universidade Nove de Julho (Uninove), Brasil.
 
 ## Essas são minhas competências:
@@ -59,9 +59,9 @@ São Paulo/SP - [/in/richard-rosenblat](www.linkedin.com/in/richard-rosenblat)
 
 # Hello There! My name is Richard Rosenblat
 
-## I am interested in Backend Software Development
+## I am interested in Software Development
 
-I wish to work with Java.  
+I wish to work with software development and expand my knowledge.  
 I study Technologist in Systems Analysis and Development in Nove de Julho (Uninove) university, Brazil.
 
 ## These are my qualifications:
@@ -118,9 +118,9 @@ São Paulo/SP - [/in/richard-rosenblat](www.linkedin.com/in/richard-rosenblat)
 
 # ¡Hola! Me llamo Richard Rosenblat
 
-## Estoy interesado en el desarrollo de software backend
+## Estoy interesado en el desarrollo de software
 
-Deseo trabajar con Java.
+Deseo trabajar con desarrollo de software para ampliar mis competencias.
 Estudio Tecnólogo en Análisis y Desarrollo de Sistemas en la Universidad Nove de Julho (Uninove), Brasil.
 
 ## Estas son mis competencias:
