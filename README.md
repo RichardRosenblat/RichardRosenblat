@@ -8,11 +8,15 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/RichardRosenblat"  />
+<div align="center">
+<img src="https://raw.githubusercontent.com/RichardRosenblat/RichardRosenblat/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
+<h2>These are the tecnologies I'm familiar with!</h2>
+
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
@@ -70,6 +74,10 @@
 
 ###
 
+<h2>These are the ways you can contact me!</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -84,10 +92,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RichardRosenblat/RichardRosenblat/output/snake.svg" alt="Snake animation" />
-
-###
