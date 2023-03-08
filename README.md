@@ -10,7 +10,7 @@
 
 ###
 <div align="center">
-<img src="https://github.com/RichardRosenblat/RichardRosenblat/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RichardRosenblat/RichardRosenblat/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
