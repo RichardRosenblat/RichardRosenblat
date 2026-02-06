@@ -9,13 +9,13 @@
   <br/>
   🇧🇷 Brazil
 </p>
-
+ <!-- 
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RichardRosenblat&show_icons=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardRosenblat&layout=compact" height="150"/>
-</div>
+</div> --> 
 
 ---
 
